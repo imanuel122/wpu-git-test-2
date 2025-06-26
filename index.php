@@ -14,6 +14,10 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil blanditiis voluptatem eveniet. Pariatur eius
         laudantium corrupti eos ipsum esse dicta totam, consequuntur soluta explicabo beatae, eligendi maxime nemo
         itaque molestias?</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 
 </html>
